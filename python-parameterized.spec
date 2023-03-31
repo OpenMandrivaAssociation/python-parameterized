@@ -2,7 +2,7 @@
 
 Name:           python-%{srcname}
 Version:        0.8.1
-Release:        1
+Release:        2
 Summary:        Parameterized testing with any Python test framework
 Group:		Development/Python
 
