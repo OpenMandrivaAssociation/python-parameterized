@@ -2,7 +2,7 @@
 
 Name:		python-parameterized
 Version:	0.9.0
-Release:	1
+Release:	2
 Summary:	Parameterized testing with any Python test framework
 Group:		Development/Python
 License:	BSD-2-Clause
